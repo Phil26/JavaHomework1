@@ -1,3 +1,5 @@
+@author Filip Neagoe
+
 import java.util.LinkedList;
 
 public class Main {
