@@ -1,5 +1,5 @@
 
-@author Filip Neagoe
+
 
 import java.io.IOException;
 import java.net.URI;
