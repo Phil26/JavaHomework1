@@ -1,3 +1,6 @@
+
+@author Filip Neagoe
+
 // Exceptia este aruncata
 
 import java.util.ArithmeticException;
