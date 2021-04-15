@@ -1,5 +1,4 @@
 
-@author Filip Neagoe
 
 public class Main {
 
