@@ -1,4 +1,4 @@
-@author Filip Neagoe
+
 
 import java.io.FileOutputStream;
 import java.io.IOException;
