@@ -1,5 +1,5 @@
 
-@author Filip Neagoe
+
 
 // Exceptia este aruncata
 
