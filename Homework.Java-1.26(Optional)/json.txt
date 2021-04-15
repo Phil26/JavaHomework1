@@ -1,0 +1,1 @@
+{"students":[{"name":"Alin","age":20,"degree":"math"},{"name":"Maria","age":18,"degree":"biology"},{"name":"Ionel","age":22,"degree":"chemistry"},{"name":"George","age":19,"degree":"antropology"},{"name":"Marius","age":23,"degree":"physics"}],"age":0}
