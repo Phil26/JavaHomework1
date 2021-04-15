@@ -1,5 +1,5 @@
 
-@author Filip Neagoe
+
 
 import java.util.Scanner;
 import java.util.InputMismatchException;
