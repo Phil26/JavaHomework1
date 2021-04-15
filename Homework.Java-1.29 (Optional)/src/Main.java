@@ -1,5 +1,5 @@
 
-@author Filip Neagoe
+
 
 import java.util.Random;
 import java.io.FileWriter;
