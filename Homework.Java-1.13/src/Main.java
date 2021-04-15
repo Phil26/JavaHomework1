@@ -1,5 +1,4 @@
 
-@author Filip Neagoe
 
 import java.util.InputMismatchException;
 import java.lang.Math;
