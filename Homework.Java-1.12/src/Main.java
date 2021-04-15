@@ -1,3 +1,6 @@
+
+@author Filip Neagoe
+
 import java.io.File;
 import java.io.FileWriter;
 import java.util.Scanner;
