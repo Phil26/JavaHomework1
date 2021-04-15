@@ -1,4 +1,4 @@
-@author Filip Neagoe
+
 
 import java.util.LinkedList;
 import java.util.Scanner;
