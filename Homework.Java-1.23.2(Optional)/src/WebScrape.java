@@ -1,4 +1,4 @@
-@author Filip Neagoe
+
 
 import java.io.IOException;
 import org.jsoup.Jsoup;
