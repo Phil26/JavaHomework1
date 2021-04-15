@@ -1,5 +1,5 @@
 
-@author Filip Neagoe
+
 
 import java.io.File;
 import java.io.FileWriter;
