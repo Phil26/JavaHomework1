@@ -1,3 +1,5 @@
+@author Filip Neagoe
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
